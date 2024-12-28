@@ -60,11 +60,11 @@
 
 尔湾云运营多年，带宽冗余充足，晚高峰时观看4K表现流畅无卡顿，支持解锁 Netflix、Disney+ 和 ChatGPT 等流行服务。
 
-![](https://www.cnvintage.org/assets/files/2024-12-22/1734865053-912902-3ddbfc5c-dc96-4f92-a363-decf638a9d40.jpeg)
+[![](https://www.cnvintage.org/assets/files/2024-12-22/1734865053-912902-3ddbfc5c-dc96-4f92-a363-decf638a9d40.jpeg)](https://go.1vpn.cc/ewan)
 
 #### 尔湾云机场测速
 
-![](https://www.cnvintage.org/assets/files/2024-12-28/1735381789-60188-40fdc87e-d737-475d-81c9-2214afe35d51.webp)
+[![](https://www.cnvintage.org/assets/files/2024-12-28/1735381789-60188-40fdc87e-d737-475d-81c9-2214afe35d51.webp)](https://go.1vpn.cc/ewan)
 
 ***
 
@@ -81,7 +81,7 @@
 
 耐思云机场于2023年开始运营以来备受用户信赖。机场提供多节点支持，适用于 SSR、Trojan、V2Ray 等主流协议，支持 Shadowrocket、Clash 等客户端一键导入，使用非常便捷。特别适合于解锁 Netflix、Hulu 等国际流媒体，同时还能流畅访问 ChatGPT 等应用。
 
-![](https://www.cnvintage.org/assets/files/2024-12-28/1735382020-291512-30d24e06-1245-4bfc-a939-81f4047a82f5.webp)
+[![](https://www.cnvintage.org/assets/files/2024-12-28/1735382020-291512-30d24e06-1245-4bfc-a939-81f4047a82f5.webp)](https://go.1vpn.cc/nisi)
 
 ***
 
@@ -100,7 +100,7 @@
 
 速云梯机场是运营5年以上的老牌机场，稳定可靠国内用户众多，支持 SSR 和 V2ray 协议，有中转和 IPLC 专线网络，节点数量比较多，使用时需要慢慢筛选，节点命名标注了相关倍率，使用时建议选择低倍率节点。官方常年都有优惠活动，下单时请记得输入优惠码。
 
-![](https://www.cnvintage.org/assets/files/2024-12-28/1735382192-889859-9117bbbd-d23f-4715-bf01-155d0ea5bac4.jpeg)
+[![](https://www.cnvintage.org/assets/files/2024-12-28/1735382192-889859-9117bbbd-d23f-4715-bf01-155d0ea5bac4.jpeg)](https://go.1vpn.cc/suyu)
 
 ***
 
@@ -117,7 +117,7 @@
 
 CyberGuard 机场（CG 加速器）于 2023 年开始运营的机场，机场官方也自称为 CyberGuard VPN，采用 Shadowsocks 协议，有公网中转、IPLC 和 IEPL 专线，节点覆盖亚、美、欧等大陆常用地区。机场套餐支持不限设备数、不限时长按量付费，也提供定制选项，适用于多种人群的上网需求。
 
-![](https://www.cnvintage.org/assets/files/2024-12-28/1735382434-805035-cyberguard.jpeg)
+[![](https://www.cnvintage.org/assets/files/2024-12-28/1735382434-805035-cyberguard.jpeg)](https://go.1vpn.cc/cybg)
 
 ## 不建议使用的VPN梯子
 
