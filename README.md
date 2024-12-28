@@ -21,7 +21,6 @@
 | 耐思云机场 | ⭐⭐⭐⭐⭐⭐ | [耐思云官网地址](https://go.1vpn.cc/nisi) | [耐思云备用地址](https://go.51tz.cc/nicecloud) |
 | 速云梯机场 | ⭐⭐⭐⭐⭐ | [速云梯官网地址](https://go.1vpn.cc/suyu) | [速云梯备用地址](https://go.51tz.cc/sycloud) |
 | CG加速机场 | ⭐⭐⭐⭐ | [CG加速官网地址](https://go.1vpn.cc/cybg) | [CG加速备用地址](https://go.51tz.cc/cyber) |
-| 苏打云机场 | ⭐⭐⭐⭐ | [苏打云官网地址](https://go.1vpn.cc/soda) | [苏打云备用地址](https://go.51tz.cc/sodacloud) |
 
 2025年最好用的翻墙机场梯子完全替代了传统的VPN，主要是中转机场（公网隧道中转）、IPLC 专线机场、IEPL 专线机场，直连机场已不建议作为主力使用；从协议上来看，顶级（一线机场）多采用成熟的 SS、V2ray（Vmess）、Trojan 协议，而非直连机场则比较多的采用较新的 Hysteria 2（hy2）或 Vless+Reality 协议。
 
@@ -43,7 +42,7 @@
 
 这些科学上网机场节点不仅可以稳定流畅的访问外网，也支持解锁流媒体、注册ChatGPT、种子下载、隐藏真实IP地址等。以下是关于每款VPN的稳定性、客户端软件、服务器节点、性价比和安全性的详细测评。
 
-### 1.尔湾云机场-速度最快的国内梯子首选 
+### 1.尔湾云机场-国内高性价比梯子首选 
 [**点击直达官网**](https://go.1vpn.cc/ewan)
 
 **基础订阅 11 元/月**
@@ -51,7 +50,7 @@
 * BGP中转线路和 IPLC 内网专线提供
 * Shadowsocks 和 V2ray （vmess）多协议
 * Netflix、Disney+、TikTok、ChatGPT 全解锁
-* 订阅有效期内流量跨月不清零
+* 订阅有效期内**流量跨月不清零**
 * 支持24小时不满意退款服务
 * 24小时在线客服，响应迅速
 
@@ -60,3 +59,51 @@
 尔湾云运营多年，带宽冗余充足，晚高峰时观看4K表现流畅无卡顿，支持解锁 Netflix、Disney+ 和 ChatGPT 等流行服务。
 
 ![](https://www.cnvintage.org/assets/files/2024-12-22/1734865053-912902-3ddbfc5c-dc96-4f92-a363-decf638a9d40.jpeg)
+
+#### 尔湾云机场测速
+
+![](https://www.cnvintage.org/assets/files/2024-12-28/1735381789-60188-40fdc87e-d737-475d-81c9-2214afe35d51.webp)
+
+### 2.耐思云机场-速度最快的机场梯子
+[**点击直达官网**](https://go.1vpn.cc/nisi)
+
+**基础订阅 12元/月**
+
+* BGP中转线路和 IPLC 内网专线提供
+* Shadowsocks 和 V2ray （vmess）多协议
+* Netflix、Disney+等国际流媒体与TikTok、ChatGPT 全解锁
+* 订阅年付套餐，**赠送 ChatGPT 独享账号**
+* 24小时在线客服提供技术支持
+
+耐思云机场于2023年开始运营以来备受用户信赖。机场提供多节点支持，适用于 SSR、Trojan、V2Ray 等主流协议，支持 Shadowrocket、Clash 等客户端一键导入，使用非常便捷。特别适合于解锁 Netflix、Hulu 等国际流媒体，同时还能流畅访问 ChatGPT 等应用。
+
+### 3.速云梯机场-最稳定的机场节点梯子
+[**点击直达官网**](https://go.1vpn.cc/suyu)
+
+**基础订阅 18元/月**
+
+* **多年老牌机场，稳定可靠**
+* BGP中转线路和 IPLC 内网专线提供
+* Shadowsocks 和 V2ray 协议
+* 全节点支持流媒体解锁，适合各类用户需求
+* 支持24小时不满意退款服务
+* 24小时在线客服，响应迅速
+* 常年有优惠活动，目前年付七折
+
+速云梯机场是运营5年以上的老牌机场，稳定可靠国内用户众多，支持 SSR 和 V2ray 协议，有中转和 IPLC 专线网络，节点数量比较多，使用时需要慢慢筛选，节点命名标注了相关倍率，使用时建议选择低倍率节点。官方常年都有优惠活动，下单时请记得输入优惠码。
+
+### 4.CG加速器-不限制设备数机场
+[**点击直达官网**](https://go.1vpn.cc/cybg)
+
+**基础订阅 18元/月**
+
+* Shadowsocks协议，协议兼容性好
+* 公网/IPLC/IEPL混合网络抗封锁
+* 支持**不限速和无限设备数**
+* 提供按流量计费流量包和定制服务
+* Netflix、Disney+、ChatGPT和TikTok解锁出色
+
+CyberGuard 机场（CG 加速器）于 2023 年开始运营的机场，机场官方也自称为 CyberGuard VPN，采用 Shadowsocks 协议，有公网中转、IPLC 和 IEPL 专线，节点覆盖亚、美、欧等大陆常用地区。机场套餐支持不限设备数、不限时长按量付费，也提供定制选项，适用于多种人群的上网需求。
+
+### 5.
+
