@@ -6,7 +6,7 @@
  <meta charset="utf-8">
 </head>
 <body>
-<a href="https://ihaoke.vip"><img src="https://www.cnvintage.org/assets/files/2024-12-28/1735370832-850663-vpn.png"> </a>
+<a href="https://github.com/vpnjok/10VPN"><img src="https://www.cnvintage.org/assets/files/2024-12-28/1735370832-850663-vpn.png"> </a>
 </body>
 </html>
 
@@ -15,12 +15,12 @@
 
 ## 国内最好用的VPN梯子推荐与翻墙机场评测
 
-|  科学上网机场排行   | 热门指数 | 官网地址  | 备用网址1 | 
-|  ----  | ----  | ---- | ---- |
-| 尔湾云机场 | ⭐⭐⭐⭐⭐⭐ | [尔湾云官网地址](https://go.1vpn.cc/ewan) | [尔湾云备用地址](https://go.51tz.cc/fjcloud) |
-| 耐思云机场 | ⭐⭐⭐⭐⭐⭐ | [耐思云官网地址](https://go.1vpn.cc/nisi) | [耐思云备用地址](https://go.51tz.cc/nicecloud) |
-| 速云梯机场 | ⭐⭐⭐⭐⭐ | [速云梯官网地址](https://go.1vpn.cc/suyu) | [速云梯备用地址](https://go.51tz.cc/sycloud) |
-| CG加速机场 | ⭐⭐⭐⭐ | [CG加速官网地址](https://go.1vpn.cc/cybg) | [CG加速备用地址](https://go.51tz.cc/cyber) |
+|  科学上网机场排行   | 热门指数 | 官网地址 |
+|  ----  | ----  | ---- |
+| 尔湾云机场 | ⭐⭐⭐⭐⭐⭐ | [尔湾云官网地址](https://go.1vpn.cc/ewan) |
+| 耐思云机场 | ⭐⭐⭐⭐⭐⭐ | [耐思云官网地址](https://go.1vpn.cc/nisi) |
+| 速云梯机场 | ⭐⭐⭐⭐⭐ | [速云梯官网地址](https://go.1vpn.cc/suyu) | 
+| CG加速机场 | ⭐⭐⭐⭐ | [CG加速官网地址](https://go.1vpn.cc/cybg) | 
 
 2025年最好用的翻墙机场梯子完全替代了传统的VPN，主要是中转机场（公网隧道中转）、IPLC 专线机场、IEPL 专线机场，直连机场已不建议作为主力使用；从协议上来看，顶级（一线机场）多采用成熟的 SS、V2ray（Vmess）、Trojan 协议，而非直连机场则比较多的采用较新的 Hysteria 2（hy2）或 Vless+Reality 协议。
 
